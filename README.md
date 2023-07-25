@@ -20,3 +20,15 @@ The architecture of the deep learning model used in this project is based on fas
 **Results**
 
 The model has been trained for 50 epochs and currently achieves an impressive accuracy of more than 91% on the validation set. This level of accuracy demonstrates the effectiveness of fastai in simplifying the deep learning workflow while still delivering state-of-the-art results.
+
+<img width="310" alt="image" src="https://github.com/Grunt-prog/Image-classification/assets/86661317/a090e490-8cb7-4efb-a5a9-93b7c25d7d0d">
+
+<img width="311" alt="image" src="https://github.com/Grunt-prog/Image-classification/assets/86661317/330a38e4-0e3e-4fcb-b7e4-33e3de8098d5">
+
+<img width="404" alt="image" src="https://github.com/Grunt-prog/Image-classification/assets/86661317/c332a938-80e9-4140-a6d9-11ae31a711f7">
+
+<img width="266" alt="image" src="https://github.com/Grunt-prog/Image-classification/assets/86661317/56713e2f-e2c0-4f40-8d8b-f4cfcfbf204b">
+
+
+
+
